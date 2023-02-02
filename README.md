@@ -41,9 +41,30 @@ Lets start off with the simple.
 You can launch the UI by writing the code below:
 
 ```
-BetterGUI.popUp("This is some text", "This is a title");
+BetterGUI.popUp("Title goes here", "Text goes here");
 ```
 
 Upon running the function, you will get a message similar to this:
 ![alt text](https://github.com/WillDev12/BetterGUI/blob/2ca56518af71920e8b7cbcabb286863bb5c8f738/images/Screenshot%202023-02-02%201.13.59%20PM.png)
 
+You can also use BetterGUI to display input, such as the following:
+
+```
+function getText() {
+  var input = SpreadsheetApp.getActiveSheet().getRange('A1').value;
+  var title = 'Title';
+  showText(input, title);
+}
+
+function showText(input, title) {
+
+  BetterGUI.popUp(input, title);
+  
+}
+```
+
+# Open source
+
+BetterGUI has been made open source under NO licensing (it's absolutely free to use and edit) so that others can fit their parts into it to make it a better program.
+
+You can access the open source code [here](https://github.com/WillDev12/BetterGUI/blob/main/src/library.gs)
