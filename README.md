@@ -41,7 +41,7 @@ Lets start off with the simple.
 You can launch the UI by writing the code below:
 
 ```
-BetterGUI.popUp("text", "title");
+BetterGUI.popUp("This is some text", "This is a title");
 ```
 
 Upon running the function, you will get a message similar to this:
