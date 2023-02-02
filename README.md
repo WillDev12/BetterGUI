@@ -45,5 +45,5 @@ BetterGUI.popUp("text", "title");
 ```
 
 Upon running the function, you will get a message similar to this:
-
+![alt text](https://github.com/WillDev12/BetterGUI/blob/2ca56518af71920e8b7cbcabb286863bb5c8f738/images/Screenshot%202023-02-02%201.13.59%20PM.png)
 
