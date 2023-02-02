@@ -57,9 +57,7 @@ function getText() {
 }
 
 function showText(input, title) {
-
   BetterGUI.popUp(input, title);
-  
 }
 ```
 
