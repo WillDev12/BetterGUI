@@ -61,7 +61,9 @@ function showText(input, title) {
   BetterGUI.popUp(input, title);
 }
 ```
+# HTML in UI
 
+BetterUI has simplified the HTML process
 
 
 # Open source
