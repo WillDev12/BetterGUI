@@ -38,9 +38,11 @@ Installation is easy, follow the steps below and it will be fully installed.
 
   [BetterGUI is still in progress]
 
-  * New GUI look for alerts
-  * Easier alert code
-  * Run HTML in UI easier
+| Function    | What it does |
+| :---        |    :----:   |
+| popUp(title, text)       | Opens a more professional looking UI popup box |
+| showDialogFromHtml(html, title)  | Opens a dialog containing html  |
+| showSidebarFromHtml(html, title)  | Opens a sidebar containing html  |
     
 # How to use
 
