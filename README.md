@@ -1,5 +1,9 @@
-<h1 align="center">BetterGUI</h1>
-<h3 align="center">BetterGUI is a Google Script library with the soul purpose of making Google Sheets &amp; Docs UI better.</h3>
+<p align="center">
+  <img src="https://github.com/WillDev12/BetterGUI/blob/main/images/logo.png" width="400px" height="250">
+</p>
+
+<h1 align="center">BetterGUI v2.0.0</h1>
+
 <p align="center">
   <a href="https://github.com/WillDev12">
     <img src="https://img.shields.io/github/followers/WillDev12?color=success&label=Follow%20my%20github&logo=github&style=for-the-badge">
