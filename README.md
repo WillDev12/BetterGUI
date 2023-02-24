@@ -40,7 +40,8 @@ Installation is easy, follow the steps below and it will be fully installed.
 
 # What BetterGUI offers
 
-  [BetterGUI is still in progress]
+  [BetterGUI is still in progress]<br>
+  [NOTE THAT BETTERGUI WORKS BOTH FOR GOOGLE SHEETS AND DOCS]
 
 | Function    | What it does |
 | :---        |    :----:   |
