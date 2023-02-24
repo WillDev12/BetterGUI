@@ -61,7 +61,6 @@ function showText(input, title) {
   BetterGUI.popUp(input, title);
 }
 ```
-# Html in UI
 
 
 
