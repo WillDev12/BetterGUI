@@ -1,5 +1,5 @@
 # BetterGUI
-BetterGUI is a Google Script library with the soul purpose of making Google Sheets &amp; Docs better.
+BetterGUI is a Google Script library with the soul purpose of making Google Sheets &amp; Docs UI better.
 
 # How to install
 
@@ -31,6 +31,7 @@ Installation is easy, follow the steps below and it will be fully installed.
 
   * New GUI look for alerts
   * Easier alert code
+  * Run HTML in UI easier
     
 # How to use
 
@@ -60,6 +61,9 @@ function showText(input, title) {
   BetterGUI.popUp(input, title);
 }
 ```
+# Html in UI
+
+
 
 # Open source
 
